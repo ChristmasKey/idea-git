@@ -8,5 +8,6 @@ public class GitTest {
         System.out.println("Hello Git!3");
         System.out.println("hot-fix分支");
         System.out.println("master分支");
+        System.out.println("hot-fix分支2");
     }
 }
