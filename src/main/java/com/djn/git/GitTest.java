@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("hot-fix分支");
         System.out.println("master分支");
         System.out.println("hot-fix分支2");
+        System.out.println("pull test");        
     }
 }
